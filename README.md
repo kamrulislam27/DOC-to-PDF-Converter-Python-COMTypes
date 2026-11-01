@@ -107,5 +107,7 @@ This project is licensed under the **MIT License**. Modify and redistribute free
 
 ## 📬 Contact
 
-📧 Email: kamrul@ahut.edu.cn
-💻 GitHub: https://github.com/kamrulislam27
+📧 Email: kamrul@ahut.edu.cn  
+💻 GitHub: [https://github.com/kamrulislam27](https://github.com/kamrulislam27)
+
+---
